@@ -9,8 +9,13 @@ Also To Be Noted Pre Work Versions Are Only In The Repo
 
 
 
+### Hooks Compatibility  
 
-### Developer Use 
+
+| Inqui Hooks | Functionality  |
+|------|------|
+| `offscl` | Modifies Postion Of Called Object |
+
 ```lua
 
 -- Scaling And Querying Positon And Point 
